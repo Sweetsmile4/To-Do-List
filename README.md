@@ -1,7 +1,6 @@
-#To-Do-List
-
-To-Do-List 📝
+📋 To-Do List
 An intuitive and visually appealing Task Manager that helps users efficiently manage their tasks by adding, sorting, and filtering them based on priority and status.
+
 
 🚀 Features
 🟢 Add, Edit, and Delete Tasks
@@ -13,6 +12,10 @@ An intuitive and visually appealing Task Manager that helps users efficiently ma
 🌙 Light/Dark Mode Toggle
 🔄 Sort Tasks by Date, Priority, or Status
 🗑️ Clear Completed or All Tasks
-
 📸 Screenshots
+
 ![alt text](image.png)
+
+
+⚙️ Tech Stack
+Frontend: HTML, CSS, JavaScript
